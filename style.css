@@ -1,0 +1,39 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 800px;
+}
+.th1 {
+    background-color: yellow;
+}
+.th2 {
+    background-color: orange;
+}
+td, th {
+    border: 2px solid #000000;
+    padding: 10px;
+}
+h1 {
+    width: 200px;
+    font-size: 15pt;
+    margin-left: 200px;
+    color: blue;
+}
+.bigtilte {
+    font-size: 20pt;
+    color: blue;
+    border: 0px;
+    text-align: center;
+}
+.left {
+    color: mediumblue;
+    border: 0px;
+    text-align: left;
+    vertical-align: top;
+}
+.right {
+    color: mediumblue;
+    border: 0px;
+    text-align: right;
+    vertical-align: top;
+}
